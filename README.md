@@ -36,3 +36,9 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
   - LinkedIn [#tinytapeout](https://www.linkedin.com/search/results/content/?keywords=%23tinytapeout) [@TinyTapeout](https://www.linkedin.com/company/100708654/)
   - Mastodon [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn)
   - X (formerly Twitter) [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@tinytapeout](https://twitter.com/tinytapeout)
+ 
+## How it works
+This design uses the advanced template from WokWi. The inputs in0 and in1 are connected into a series of NAND gates that operate as a NOR gate together. The output then is (in the wokwi) connected to one segment of the output display. 
+Test by enabling and disable in0 and in1 to see if outputs match an xor.
+
+
