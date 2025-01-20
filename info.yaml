@@ -2,7 +2,7 @@
 #fake comment here
 project:
   wokwi_id:     420548316338880513       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Demo Title"      # Project title
+  title:        "XOR from NAND"      # Project title
   author:       "Julian Tiana"      # Your name
   discord:      "plant20000"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Julian's test github project"      # One line description of what your project does
